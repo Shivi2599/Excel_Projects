@@ -13,6 +13,9 @@ The dataset contains information about registered electric vehicles, including:
 - Charging Capabilities
 - Geographical Location (State/City/ZIP Code)
 
+## Raw Data
+- [Raw Dataset](https://www.kaggle.com/datasets/ratikkakkar/electric-vehicle-population-data)
+  
 ## 🛠 Tech Stack
 - Python (Pandas, NumPy, Matplotlib, Seaborn) for data cleaning and analysis
 - Power BI for interactive dashboard creation
